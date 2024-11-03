@@ -39,3 +39,10 @@ This Java program, `StudentGradeManager`, is designed to help users manage and c
 
 ### Summary
 `StudentGradeManager` is a console-based program that allows users to enter grades for multiple subjects and then calculates the average grade, letter grade, and GPA. It uses methods to encapsulate the logic for determining letter grades and GPAs, making the code more modular and easy to read. This program provides a simple and user-friendly way to manage and assess student performance in a straightforward grading system.
+
+
+
+
+
+![Screenshot 2024-11-03 181508](https://github.com/user-attachments/assets/62e9c565-aa7e-42af-86c1-4e956edafff6)
+
